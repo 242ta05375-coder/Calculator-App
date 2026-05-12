@@ -1,2 +1,12 @@
 # Calculator-App
-My python kivy calculator project 
+A mobile calculator app built using Python and Kivy.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Technology
+- Python
+- Kivy
